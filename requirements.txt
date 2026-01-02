@@ -1,6 +1,5 @@
 streamlit
 requests
-pickle5
 pandas
 numpy
 scikit-learn
